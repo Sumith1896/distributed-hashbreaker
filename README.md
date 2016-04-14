@@ -3,15 +3,15 @@ Sumith | Shubham Goel
 
 ## List of relevant files
 
-`server.cpp - contains code of the server
-`user.cpp - contains code of the user
-`worker.cpp - contains code of the worker
+`server.cpp` - contains code of the server <br>
+`user.cpp` - contains code of the user <br>
+`worker.cpp` - contains code of the worker <br>
 
-`structs.h - contains structs and helper functions used throughout the other files
+`structs.h` - contains structs and helper functions used throughout the other files
 some structs and functions are used in all three files,
-instead of having redundant code, we put them in one file.
+instead of having redundant code, we put them in one file. <br>
 
-`results.jpg` - required image graph of evaluation
+`results.jpg` - required image graph of evaluation <br>
 `makefile` - makefile of the project, instructions below
 
 ## Running instructions
